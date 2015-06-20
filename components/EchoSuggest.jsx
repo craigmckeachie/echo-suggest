@@ -5,10 +5,10 @@ const Nav = require('./Nav');
 
 const config = {
     app: {
-        name: 'EchoSuggest'}
+        name: 'EchoSuggest'},
     echonest: {
-        key: JQL763XRR0PHE44LI,
-        consumerKey: 869bf28b91f142f2e0f0ce428dae3c9c
+        key: 'JQL763XRR0PHE44LI',
+        consumerKey: '869bf28b91f142f2e0f0ce428dae3c9c'
     }
 };
 
