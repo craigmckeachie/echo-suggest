@@ -7,8 +7,8 @@ const config = {
     app: {
         name: 'EchoSuggest'},
     echonest: {
-        key: 'JQL763XRR0PHE44LI',
-        consumerKey: '869bf28b91f142f2e0f0ce428dae3c9c'
+        key: 'F2GOVCQDYT94ZRLSH',
+        consumerKey: '1e489fa7b8fe704924b73a8f7fab9bd7'
     }
 };
 
@@ -23,7 +23,7 @@ const EchoSuggest = React.createClass({
             <div className="app-instance">
                 <Nav config={config}/>
                 <div className="page-container">
-                    <h1 className="fixed-centered">Hello, world.</h1>
+                    <h1 className="fixed-centered">Hello, world..</h1>
                 </div>
             </div>
         );
